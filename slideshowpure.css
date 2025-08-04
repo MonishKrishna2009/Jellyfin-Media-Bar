@@ -178,6 +178,19 @@
     animation-play-state: paused;
 }
 
+.plot {
+    white-space: normal;              
+    word-break: break-word;         
+    line-height: 1.5;               
+    text-indent: 1.5em;            
+    display: block;                   
+}
+
+.plot-container {
+    padding-left: 0; 
+    max-width: 50vw; 
+}
+
 /* ─── Backdrops ────────────────────────────────── */
 .backdrop-container,
 .backdrop,
